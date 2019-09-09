@@ -1,3 +1,17 @@
+*.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.contaniner {
+    display: flex;
+    /* or inline-flex */
+}
+
+main {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 * {
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -8,7 +22,7 @@ h1 {
 
 p,
 li {
-    font-size: 18px;
+    font-size: 12px;
 }
 
 a {
